@@ -1,6 +1,8 @@
 ## Author
 
-Developed by Helincharm as a personal Python portfolio project.# Pixel Weather App.
+Developed by Helincharm as a personal Python portfolio project.
+
+ # Pixel Weather App.
 
 ---
 Pixel Weather App is a Python desktop application that displays real-time weather information with a pixel art themed interface. The application uses the OpenWeatherMap API to retrieve current weather data and updates the visual scene based on the current weather condition.
